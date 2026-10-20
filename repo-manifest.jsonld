@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-external-wheels/commit/ad1867878fd601af91be4dffb5d9180764bad789",
       "git:hexsha": "ad1867878fd601af91be4dffb5d9180764bad789",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:55:27.596253+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-external-wheels/commit/0c3639de3658c250b6cbead9cc87823a09884ab3",
